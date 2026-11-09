@@ -1,0 +1,9 @@
+{
+  "name": "Namoz Reminder",
+  "short_name": "Namoz",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "icons": []
+}
